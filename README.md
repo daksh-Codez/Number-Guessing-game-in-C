@@ -1,4 +1,4 @@
-# 🎮 Number Guessing Game in C
+#  Number Guessing Game in C
 
 A console-based **Number Guessing Game** developed using the C programming language. This project challenges players to guess a randomly generated number within a limited number of attempts based on the selected difficulty level.
 
